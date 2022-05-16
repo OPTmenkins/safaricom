@@ -1,0 +1,2 @@
+# safaricom
+A PHP sdk for the new Mpesa RESTful APIs
